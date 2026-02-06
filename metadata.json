@@ -1,0 +1,7 @@
+{
+  "name": "BombaInsight - Agent Dashboard 2025",
+  "description": "A spatial and statistical analytics dashboard for Malaysian Fire Stations (Balai Bomba) in 2025, featuring an AI agent expert.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
