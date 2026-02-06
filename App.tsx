@@ -11,10 +11,10 @@ import {
   ShieldCheck,
   Zap
 } from 'lucide-react';
-import StatCard from './components/StatCard';
-import ChatInterface from './components/ChatInterface';
-import MapView from './components/MapView';
-import DataCharts from './components/DataCharts';
+import StatCard from './StatCard';
+import ChatInterface from './ChatInterface';
+import MapView from './MapView';
+import DataCharts from './DataCharts';
 import { MOCK_DATA } from './constants';
 
 const App: React.FC = () => {
